@@ -1,0 +1,6 @@
+{
+  "name": "VocabVerse AI - Nền Tảng Học Từ Vựng Tiếng Anh Thông Minh",
+  "description": "Trang web ôn tập và học từ vựng tiếng Anh đa năng tích hợp AI, 8 dạng bài tập game hóa, kiến trúc RAG, nhạc lofi chill và đọc tài liệu đa định dạng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
